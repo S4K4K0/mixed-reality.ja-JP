@@ -100,7 +100,7 @@ ms.locfileid: "86305512"
 
 ![mr-learning-base](images/mr-learning-base/base-04-section4-step1-1.png)
 
-[Hierarchy]\(階層\) ウィンドウで、[RoverExplorer]、[RoverAssembly]、[RoverModel]、 **[Parts]\(パーツ\)** の子オブジェクトをすべて選択し、それらを右クリックして、 **[Duplicate]\(重複\)** を選択し、各パーツのコピーを作成します。
+[Hierarchy]\(階層\) ウィンドウで、[RoverExplorer] > [RoverAssembly] > [RoverModel] >  **[Parts]\(パーツ\)** の子オブジェクトをすべて選択し、それらを右クリックして、 **[Duplicate]\(重複\)** を選択し、各パーツのコピーを作成します。
 
 ![mr-learning-base](images/mr-learning-base/base-04-section4-step1-2.png)
 
